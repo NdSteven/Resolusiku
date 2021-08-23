@@ -1,3 +1,4 @@
 RESOLUSIKU
 - konsen untuk belajar bahasa pemrograman C#
 - membuat akun yt edukasi
+- belajar bahasa Mandarin
